@@ -1,19 +1,22 @@
 ***********
-Peanut Butter and Jelly, an Overview
+# Peanut Butter and Jelly, an Overview
 ***********
-Erste Änderung im Text
+### Erste Änderung im Text
 
 A peanut butter and jelly sandwich is the quintessential, love it or hate it staple of American childhood lunches. It is a culture icon. But where did it come from, and what is it really?
-In 1901, Julia Davis Chandler wrote in The Boston Cooking School Magazine of Culinary Science and Domestic Economics: "For variety, some day try making little sandwiches, or bread fingers, of three very thin layers of bread and two of fill- ing, one of peanut; paste, whatever brand you prefer, and currant or crab-apple jelly for the other. The combination is delicious, and, so far as I know, original."
-link: https://babel.hathitrust.org/cgi/pt?id=mdp.39015036669904&view=1up&seq=200&q1=peanut
+_In 1901, Julia Davis Chandler wrote in The Boston Cooking School Magazine of Culinary Science and Domestic Economics:_
+**"For variety, some day try making little sandwiches, or bread fingers, of three very thin layers of bread and two of fill- ing, one of peanut; paste, whatever brand you prefer, and currant or crab-apple jelly for the other. The combination is delicious, and, so far as I know, original."**
+[link:](https://babel.hathitrust.org/cgi/pt?id=mdp.39015036669904&view=1up&seq=200&q1=peanut)
+
+
 
 ***********
-Ingredients
+## Ingredients
 ***********
 
-Sliced bread.
-Attribution: "Sliced fresh bread" available at https://foto.wuestenigel.com/sliced-fresh-bread/ by Marco Verch
-licensed under CC by 2.0, https://creativecommons.org/licenses/by/2.0/
+![Sliced bread](media/bread.jpg)).
+Attribution: "Sliced fresh bread" available at https://foto.wuestenigel.com/sliced-fresh-bread/ by [Marco Verch](https://creativecommons.org/licenses/by/2.0/)
+licensed under CC by 2.0, 
 
 Peanut butter.
 Attribution: "Peanut Butter" available at https://www.flickr.com/photos/niaid/25419964715 by NIAID
@@ -53,11 +56,12 @@ Peanut and Other Butters
 
 Peanut butter is not the only type of "butter" you can use:
 
-
-Peanut Butter: Traditional, but peanuts are a common allergy.
-Sunflower Seed Butter:  Nut-free butter avoids most allergies.
-Cashew Butter: Cashew butter is more expensive than peanut butter, but cashews can also be more delicious than peanuts.
-Almond Butter: Traditional, but peanuts are a common allergy.
+│ │ │ │  
+│-│-│-│
+│Peanut Butter: Traditional, but peanuts are a common allergy.│
+│Sunflower Seed Butter:  Nut-free butter avoids most allergies.│
+│Cashew Butter: Cashew butter is more expensive than peanut butter, but cashews can also be more delicious than peanuts.│
+│Almond Butter: Traditional, but peanuts are a common allergy.│
 Hazelnut and Chocolate Butter:  Nutella can be used instead of or in addition to the traditional peanut butter.
 Butter: Toast with butter and jam is a warm, deconstructed PBJ sandwich with dairy substituted for peanuts.
 
@@ -84,11 +88,11 @@ Assembly
 Video of Joy making a sandwich
 
 ***********
-Consumption
+## Consumption
 ***********
-
 What are the instructions for eating a peanut butter and jelly sandwich?
 
+```python
 
 while SANDWICH
   take a bite
@@ -96,8 +100,9 @@ while SANDWICH
   swallow
 
   if THIRSTY
-    drink beverage
-
+    drink beverage`
+  
+```
 These pseudocode instructions could also be written in a particular language, like Python:
 
 
